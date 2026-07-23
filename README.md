@@ -14,4 +14,5 @@ Hi, I’m Aditya Yadav, a B.Tech 2nd-year student and aspiring Full Stack Web De
 
 ---
 <img src="https://count.getloli.com/get/@Mayur-Pagote?theme=rule34"/>
+<img src="https://hits.sh/github.com/Mayur-Pagote/hits.svg?style=plastic&label=Visitors&color=purple&labelColor=indigo&logo=github"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
