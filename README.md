@@ -53,6 +53,6 @@ Hi, I’m Aditya Yadav, a B.Tech 3rd-year student and aspiring Full Stack Web De
 
 
 ---
-<img src="https://count.getloli.com/get/@Mayur-Pagote?theme=rule34"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@Mayur-Pagote?theme=rule34"/>
+</p>
